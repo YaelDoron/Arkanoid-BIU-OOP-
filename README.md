@@ -24,9 +24,9 @@ A classic Arkanoid-style game implemented in Java using Object-Oriented Programm
 ## 📸 Screenshots
 ## 📸 Screenshots
 
-[![Game Screenshot 1](https://github.com/YaelDoron/Arkanoid-BIU-OOP-/issues/1)
+[![Game Screenshot 1]https://github.com/YaelDoron/Arkanoid-BIU-OOP-/issues/1
 
-[![Game Screenshot 2](https://github.com/YaelDoron/Arkanoid-BIU-OOP-/issues/2)
+[![Game Screenshot 2]https://github.com/YaelDoron/Arkanoid-BIU-OOP-/issues/2
 
 
 
