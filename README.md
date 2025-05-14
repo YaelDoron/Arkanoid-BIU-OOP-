@@ -22,8 +22,11 @@ A classic Arkanoid-style game implemented in Java using Object-Oriented Programm
 3. Run the main() method in the Ass5Game class.
 
 ## 📸 Screenshots
-![Game screenshot 1]https://github.com/YaelDoron/Arkanoid-BIU-OOP-/issues/1
-![Game screenshot 2]https://github.com/YaelDoron/Arkanoid-BIU-OOP-/issues/2
+## 📸 Screenshots
+
+[![Game Screenshot 1](https://private-user-images.githubusercontent.com/203701171/443745351-4d1bc526-59a7-4743-9fc7-41cb67117242.png)](https://private-user-images.githubusercontent.com/203701171/443745351-4d1bc526-59a7-4743-9fc7-41cb67117242.png)
+
+[![Game Screenshot 2](https://private-user-images.githubusercontent.com/203701171/443745351-4d1bc526-59a7-4743-9fc7-41cb67117242.png)](https://private-user-images.githubusercontent.com/203701171/443745351-4d1bc526-59a7-4743-9fc7-41cb67117242.png)
 
 
 
