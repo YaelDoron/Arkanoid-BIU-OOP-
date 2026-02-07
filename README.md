@@ -21,11 +21,10 @@ A classic Arkanoid-style game implemented in Java using Object-Oriented Programm
 2. Open the project in IntelliJ or your preferred Java IDE.
 3. Run the main() method in the Ass5Game class.
 
-| Start Screen | Level Preview |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/4a422030-0c37-4e48-a00e-ea4b290812cc" width="100%" /> | <img src="https://github.com/user-attachments/assets/42f5504a-6fd3-4d9b-a0b3-29e4af35f50c" width="100%" /> |
 
-<video src="https://github.com/user-attachments/assets/4e15df35-7329-4b9d-a25b-25e5acd2cab8" width="100%" autoplay loop muted playsinline></video>
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0fd8ea80-c2b1-419e-a638-dcb95524a12f)
 
 ## 📚 Notes
 
